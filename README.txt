@@ -1,5 +1,1 @@
-Mon Petit Français V4
-876 vocabulary entries in 24 collections (Units 1–12).
-
-Upload index.html, sw.js, manifest.webmanifest and icon.svg to GitHub Pages.
-Back up study progress before replacing existing files.
+Mon Petit Français — Pastel redesign. Upload the four files index.html, manifest.webmanifest, sw.js and icon.svg to the ROOT of your GitHub Pages repository. Progress uses the same mpf-v2 localStorage key as V4. Export a backup before updating. Refresh the website after deployment.
