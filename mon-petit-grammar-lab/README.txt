@@ -1,0 +1,1 @@
+Upload grammar.html and grammar-data.js to the root of your GitHub repository, beside index.html. Then visit https://artificialilluminati.github.io/mon-petit-francais/grammar.html . Existing vocabulary files remain untouched.
